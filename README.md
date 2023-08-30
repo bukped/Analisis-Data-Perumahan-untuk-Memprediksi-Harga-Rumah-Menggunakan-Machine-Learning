@@ -1,14 +1,19 @@
 # Monografi : Analisis Data Perumahan untuk Memprediksi Harga Rumah Menggunakan Machine Learning 
-![Cover Depan Prediksi Rumah ML - Copy](https://user-images.githubusercontent.com/74007696/219847482-22642414-3045-45c9-ba7c-8716a3faffde.png)
+
+![Halaman Depan](https://github.com/bukped/Analisis-Data-Perumahan-untuk-Memprediksi-Harga-Rumah-Menggunakan-Machine-Learning/assets/116726274/33698e3a-fc39-4a61-bc6d-390af9cd0074)
 
 # Sinopsis
-menjelaskan tentang bagaimana teknologi machine learning dapat digunakan untuk memprediksi harga rumah. Buku ini membahas bagaimana data perumahan dapat dianalisis dan diterjemahkan menjadi informasi yang berguna bagi para pemain industri properti dalam membuat keputusan bisnis.
-Buku ini juga membahas bagaimana machine learning dapat mengatasi masalah-masalah yang sering dijumpai dalam analisis data perumahan, seperti data yang tidak lengkap dan tidak akurat. Dengan memahami bagaimana teknologi machine learning dapat mengatasi masalah tersebut, para pembaca dapat membuat keputusan yang lebih baik dalam bidang properti.
-Di dalam buku ini juga dibahas tentang bagaimana membangun model machine learning untuk memprediksi harga rumah dan bagaimana model tersebut dapat diuji dan divalidasi. Selain itu, buku ini juga membahas tentang bagaimana model machine learning dapat digunakan secara efektif dalam dunia nyata.
-Secara keseluruhan, sinopsi buku ini menjelaskan bagaimana teknologi machine learning dapat digunakan untuk memprediksi harga rumah dan membantu para pemain industri properti dalam membuat keputusan yang lebih baik dengan faktor penantu dan model evaluasi yang ada.
+Tajuk penuh buku ini adalah "Monograf Analisis Data Perumahan: Memprediksi Harga Rumah dengan Menggunakan Machine Learning." Dalam monograf yang mengagumkan ini, Anda akan diajak untuk menjelajahi dunia yang memadukan kecerdasan buatan dengan pasar perumahan yang dinamis.
+
+Buku ini memaparkan sebuah perjalanan menarik melalui analisis mendalam terhadap data perumahan. Anda akan diberi pandangan mendalam tentang bagaimana teknologi Machine Learning mampu mengubah data-data seputar perumahan menjadi prediksi harga yang akurat. Dengan menggunakan bahasa yang jelas dan menarik, monograf ini akan memandu Anda melalui konsep-konsep yang penuh daya tarik, dari mulai pengumpulan dan pembersihan data hingga penerapan model-model Machine Learning canggih.
+
+Di dalam monograf ini, Anda tidak hanya akan menjadi penikmat, tetapi juga seorang penjelajah yang berani dalam dunia analisis data perumahan. Anda akan belajar tentang algoritma-algoritma yang mendasari Machine Learning, dan bagaimana mengaplikasikan alat-alat tersebut pada data perumahan untuk memprediksi harga rumah secara efektif. Anda akan disuguhi dengan contoh-contoh yang inspiratif, memperlihatkan bagaimana para profesional dan peneliti sebenarnya menggunakan teknik-teknik ini dalam situasi dunia nyata.
+
+Monograf ini dirancang untuk memikat imajinasi Anda dan membangkitkan semangat eksplorasi Anda dalam dunia Machine Learning. Dengan penjelasan yang cermat dan ilmiah namun tetap menghibur, Anda akan merasa seperti berada dalam perjalanan ilmiah yang menarik dan penuh wawasan. Oleh karena itu, siapkan diri Anda untuk merambah dunia analisis data perumahan dengan cara yang belum pernah Anda bayangkan sebelumnya!
 
 # link googlecolab
 https://colab.research.google.com/drive/12tx-uE5wqeCedXqM3unnp9-xyn4BqBJY
 
 # Biografi penulis
-![Cover Belakang Prediksi Rumah ML - Copy](https://user-images.githubusercontent.com/74007696/219847477-a0cfe721-7179-49ec-99de-e824b87e9d51.png)
+
+![Halaman Belakang](https://github.com/bukped/Analisis-Data-Perumahan-untuk-Memprediksi-Harga-Rumah-Menggunakan-Machine-Learning/assets/116726274/0f1b7603-2cb0-4c47-9eb4-d73de9b9f0eb)
